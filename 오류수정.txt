@@ -1,0 +1,17 @@
+오류수정
+p260 페이지 끝 표
+Wendesday
+--> 
+Wednesday
+
+p261 코드
+dayStr = "Wendesday";
+-->
+dayStr = "Wednesday";
+
+p296
+소스 코드 5-2 PrintNumInRange.java
+11번째 줄
+void printInt() { System.out.println(value); }17
+--> 
+void printInt() { System.out.println(value); }
