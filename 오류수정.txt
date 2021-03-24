@@ -1,17 +1,23 @@
-¿À·ù¼öÁ¤
-p260 ÆäÀÌÁö ³¡ Ç¥
+ì˜¤ë¥˜ìˆ˜ì •
+p187 ê·¸ë¦¼ ìˆ˜ì •
+hArr1[2] --> hArr1[1]
+hArr1[3] --> hArr1[2]
+hArr2[2] --> hArr2[1]
+hArr2[3] --> hArr2[2]
+
+p260 íŽ˜ì´ì§€ ë í‘œ
 Wendesday
 --> 
 Wednesday
 
-p261 ÄÚµå
+p261 ì½”ë“œ
 dayStr = "Wendesday";
 -->
 dayStr = "Wednesday";
 
 p296
-¼Ò½º ÄÚµå 5-2 PrintNumInRange.java
-11¹øÂ° ÁÙ
+ì†ŒìŠ¤ ì½”ë“œ 5-2 PrintNumInRange.java
+11ë²ˆì§¸ ì¤„
 void printInt() { System.out.println(value); }17
 --> 
 void printInt() { System.out.println(value); }
