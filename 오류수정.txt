@@ -25,3 +25,8 @@ p296
 void printInt() { System.out.println(value); }17
 --> 
 void printInt() { System.out.println(value); }
+
+p333
+n! = n × (n - 1) * (n - 2) × ... × 2 × 1 (if n >= 1)
+--> 
+n! = n × (n - 1) × (n - 2) × ... × 2 × 1 (if n >= 1)
