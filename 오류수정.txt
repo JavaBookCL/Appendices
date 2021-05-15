@@ -39,3 +39,6 @@ return 2 * 1
 
 p351
 Student 클래스 다이어그램에서 number: String과 birth: Date의 순서를 바꿈(birth: Date를 위에 위치시킴)
+
+p516
+그림에서 "poodle" --> "Poodle"
