@@ -42,3 +42,14 @@ Student 클래스 다이어그램에서 number: String과 birth: Date의 순서�
 
 p516
 그림에서 "poodle" --> "Poodle"
+
+p551
+소스 코드 7-45 NewCat.java
+코드 첫 줄에 다음 코드 삽입
+
+import java.time.LocalDateTime;
+
+코드 14번째 줄
+if (!(o instanceof NewCat)) { return false } //
+-->
+if (!(o instanceof NewCat)) { return false; } 
