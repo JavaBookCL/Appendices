@@ -56,3 +56,10 @@ if (!(o instanceof NewCat)) { return false; }
 
 p569
 UML 클래스 다이어그램에서 Queue 클래스와 Collection 클래스를 연결하는 화살표가 점선으로 그려져야 함(실선이 아님)
+
+p571
+하단 그림에서 
+marks[0] --> marks[0][]
+marks[1] --> marks[1][]
+marks[2] --> marks[2][]
+[][0] --> marks[][0]
