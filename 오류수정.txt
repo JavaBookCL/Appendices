@@ -1,4 +1,10 @@
 오류수정
+
+p130 UML 클래스 다이어그램에서
+void sayHello()
+-->
+sayHello(): void
+
 p187 그림 수정
 hArr1[2] --> hArr1[1]
 hArr1[3] --> hArr1[2]
