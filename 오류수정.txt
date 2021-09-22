@@ -5,6 +5,11 @@ void sayHello()
 -->
 sayHello(): void
 
+p187 코드 수정
+helloArr2[0] --> hArr2[0]
+helloArr2[1] --> hArr2[1]
+helloArr2[2] --> hArr2[2]
+
 p187 그림 수정
 hArr1[2] --> hArr1[1]
 hArr1[3] --> hArr1[2]
