@@ -22,6 +22,57 @@ i(1)이 j(2)보다 큽니다
 -->
 i(1)이 j(2)보다 작습니다.
 
+p246
+실습문제 8, 소스코드 03
+double arr[] = { 1.1, 2.3, 4.7, 7.5 }; 
+-->
+double[] arr = { 1.1, 2.3, 4.7, 7.5 };
+
+p247
+소스 코드 4-18 Array6.java의 03
+
+double arr[] = { 1.1, 2.3, 4.7, 7.5 }; 
+-->
+double[] arr = { 1.1, 2.3, 4.7, 7.5 };
+
+p248 아래에서 4 번째 줄
+
+jshell> double arr[] = { 1.1, 2.3, 4.7, 7.5 };
+-->
+jshell> double[] arr = { 1.1, 2.3, 4.7, 7.5 };
+
+p250 가운데 쯤 소스 코드
+
+jshell> double arr[] = { 0, 0, 0, 0 };
+-->
+jshell> double[] arr = { 0, 0, 0, 0 };
+
+p248 dkfodptj 2 번째 줄
+
+jshell> double arr[] = { 0, 0, 0, 0 };
+-->
+jshell> double[] arr = { 0, 0, 0, 0 };
+
+p252 위에서 여섯 번째 줄
+Hello arr[] = new Hello[3]; // 객체 배열 생성
+-->
+Hello[] arr = new Hello[3]; // 객체 배열 생성
+
+p252 가운데 쯤 소스 코드
+jshell> String whom[] = { "ycho", "jsl", "everyone" };
+-->
+jshell> String[] whom = { "ycho", "jsl", "everyone" };
+
+p253 소스 코드 4-19 ForEach1.java 03
+int arr[] = { 1, 2, 3, 4, 5 };
+-->
+int[] arr = { 1, 2, 3, 4, 5 };
+
+p254 소스 코드 4-20 ForEach2.java 03
+String cities[] = { "Seoul", "New York", "Sydney" };
+-->
+String[] cities = { "Seoul", "New York", "Sydney" };
+
 p260 페이지 끝 표
 Wendesday
 --> 
