@@ -177,6 +177,15 @@ if (!(o instanceof NewCat)) { return false } //
 -->
 if (!(o instanceof NewCat)) { return false; } 
 
+p559
+연습문제 1번
+문제에서 "Direction은 LEFT와 RIGHT로 구성된 열거형이다." 앞에 다음 내용 추가
+signalTurn() 함수는 방향 지시등을 켜거나 끄는 함수이다. 
+
+"interface Vehicle {" 전에 불릿으로 다음 내용 추가
+
+signalTurn() 함수를 이용해서 방향 지시등을 켜고 끈다. 
+
 p569
 UML 클래스 다이어그램에서 Queue 클래스와 Collection 클래스를 연결하는 화살표가 점선으로 그려져야 함(실선이 아님)
 
